@@ -30,7 +30,8 @@ h1{
   padding: 2% 5% 5%;
 }
 .skills{
-  padding: 2% 5% 7%;
+  padding: 2% 0% 7%;
+  text-align:center;
 }
 .elements{
   padding: 3% 3% 0%;
@@ -58,4 +59,19 @@ h6{
   line-height: 1.5;
   font-family: 'Lato', sans-serif;
 
+}
+.html{
+  padding-left: 20px;
+}
+.js{
+  padding-left: 75px;
+}
+.java{
+  padding-left: 13px;
+}
+.node{
+  padding-left: 23px;
+}
+.boot{
+  padding-left: 75px;
 }
