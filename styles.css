@@ -1,0 +1,61 @@
+body{
+  text-align: center;
+  background-image: url(images/background1.png);
+  background-size: cover;
+  position: relative;
+}
+.navbar{
+  padding-top: 2%;
+}
+#title{
+text-align: center;
+}
+.about p{
+  padding: 5% 14% 3% ;
+}
+.vishal {
+  border-radius: 50%;
+}
+h1{
+  padding-top: 10%;
+  font-family: 'Architects Daughter', cursive;
+}
+.navbar{
+  padding: 0;
+}
+.home{
+  padding: 5% 5% 7%;
+}
+.about{
+  padding: 2% 5% 5%;
+}
+.skills{
+  padding: 2% 5% 7%;
+}
+.elements{
+  padding: 3% 3% 0%;
+}
+.me{
+  padding: 3%;
+}
+#footer{
+
+  text-align: center;
+  padding: 3% 7%;
+}
+.icon-footer{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  color: #000;
+}
+.Copyright{
+  font-size: 0.75rem;
+}
+h6{
+  font-size: 1.5rem;
+  line-height: 1.5;
+  font-family: 'Lato', sans-serif;
+
+}
